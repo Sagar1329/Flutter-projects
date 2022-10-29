@@ -17,9 +17,9 @@ class _PriceScreenState extends State<PriceScreen> {
   var price4 = "Fuck";
   String price1 = " ";
   String dropvalue = "You";
-  String ans1 = "FUCK";
+  String ans1 = "Hello";
   String ans2 = "ME";
-  String ans3 = "FUCK";
+  String ans3 = "Hello";
   String ans4 = "ME";
 
   Future<List<String>> getData(String drop) async {
